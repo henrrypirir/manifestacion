@@ -4,7 +4,7 @@
 body{font-family: 'Roboto', sans-serif;}
 
 #page{max-width: 1024px; margin: 0 auto; padding: 10px 35px;}
-.title{font-size: 66px; font-weight: normal;} .blanco{color: #fff}
+.title{font-size: 66px; font-weight: normal; text-align: center;} .blanco{color: #fff}
 .title:after{
   content: "";
   background: #000;
